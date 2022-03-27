@@ -1,5 +1,5 @@
-#Leetcode
-#problem https://leetcode.com/problems/palindrome-number/
+//Leetcode
+//problem https://leetcode.com/problems/palindrome-number/
 
 var isPalindrome = function(x) {
     let num = x.toString();
