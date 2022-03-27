@@ -1,5 +1,5 @@
-#Leetcode
-#problem https://leetcode.com/problems/two-sum/
+//Leetcode
+//problem https://leetcode.com/problems/two-sum/
 
 var twoSum = function(nums, target) {
     let sum=0;
